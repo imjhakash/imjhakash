@@ -1,16 +1,8 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7B&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Johirul+Hoq+Akash;Vibe+Coder+%E2%9A%A1;AI+Problem+Solver+%F0%9F%A4%96;Founder+%40+Codemypixel+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imjhakash/imjhakash/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imjhakash/imjhakash/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/imjhakash/imjhakash/output/github-snake-dark.svg" />
-</picture>
 
 ---
 
@@ -107,9 +99,9 @@ currently: Shipping AI-powered tools that make life easier
 ```text
 +----------------------------------------------------------+
 |  Coffee -> Code -> AI -> Ship -> Repeat                  |
-|  If it can be automated, I'll automate it                |
-|  If it doesn't exist, I'll build it                      |
-|  If it's boring, I'll make it interesting                |
+|  If it can be automated, I will automate it              |
+|  If it does not exist, I will build it                   |
+|  If it is boring, I will make it interesting             |
 +----------------------------------------------------------+
 ```
 
